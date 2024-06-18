@@ -1,2 +1,2 @@
 # France-Ioi
-solutions des exercices
+solutions des exercices en C++
