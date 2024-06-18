@@ -69,3 +69,10 @@ bool isCarreMagic(Grille &tab, int n, int sT)
   
   return true;
 }
+/*
+3
+15 10 11
+8 12 16
+13 14 9
+no
+*/
