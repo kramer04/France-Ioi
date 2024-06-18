@@ -1,3 +1,4 @@
+//algorithme de dichotomie
 #include <iostream>
 #include <algorithm>
 #include <vector>
