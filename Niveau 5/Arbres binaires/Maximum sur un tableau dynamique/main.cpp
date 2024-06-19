@@ -1,4 +1,5 @@
 // passe tout juste !
+// il vaut mieux utiliser scanf et printf de C
 #include <iostream>
 //#include <array>
 #include <set>
