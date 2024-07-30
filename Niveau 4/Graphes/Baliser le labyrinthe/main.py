@@ -1,6 +1,6 @@
 import sys
 from collections import deque, defaultdict
-sys.setrecursionlimit(10**7)
+# sys.setrecursionlimit(10**7)
 def main():
     n_intersections, n_sentiers = map(int, sys.stdin.readline().split())
     
